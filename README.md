@@ -1,4 +1,6 @@
-## Hi there 👋
+<h1 align=center> 👋 Hi! I'm Mustafa Shahzad </h1>
+<h1 align=centerA> Frontend Developer </h1>
+
 
 <!--
 **mustafashahzad845/mustafashahzad845** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
