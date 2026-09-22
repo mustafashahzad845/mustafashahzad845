@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hi, I'm Mustafa Shahzad, a Software Engineer and COO & Co-Founder @Aplinode. I enjoy building modern, responsive, and user-friendly web applications while continuously improving my backend development skills.
+Hi, I'm Mustafa Shahzad, Software Engineer and COO & Co-Founder @Aplinode. I enjoy building modern, responsive, and user-friendly web applications while continuously improving my backend development skills.
 
 I'm passionate about learning new technologies, solving real-world problems, and creating high-quality digital experiences.
 
